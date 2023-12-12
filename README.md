@@ -2,7 +2,7 @@
 # SPAT-Water💧
 
 ## Beschrijving 📃
-Ontwikkel een website voor een opdrachtgever op basis van een component library.
+Ontwikkel een statisch gegenereerde website voor een opdrachtgever
 
 ![mockup3](https://github.com/sannevanseeventer/SPATwater-2.0/assets/112857444/e668acea-201f-4391-be72-2eb91ce4367d)
 
@@ -25,6 +25,7 @@ Ontwikkel een website voor een opdrachtgever op basis van een component library.
 **TOOLS 🧰:**
 * Visual Studio Code
 * Figma
+* Filezilla
   
 **GEBRUIKTE TECHNIEKEN 🛠️:**
 * Sveltekit
