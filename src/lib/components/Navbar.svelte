@@ -8,7 +8,7 @@
     <ul class="menu">
       <li><a href="/#over">Over</a></li>
       <li><a href="/#expertise">Expertise</a></li>
-      <li><a href="/#projecten">Projecten</a></li>
+      <li><a href="/projecten">Projecten</a></li>
       <li><a href="/#team">Team</a></li>
       <li><a href="/kennisbank">Kennisbank</a></li>
       <li><a href="/kaart">Kansenkaart</a></li>
@@ -30,7 +30,7 @@
     box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.1);
     position: fixed;
     width: 100vw;
-    z-index: 100;
+    z-index: 9999;
 
     & ul {
       margin: 0;
