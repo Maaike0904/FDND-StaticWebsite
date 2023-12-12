@@ -1,5 +1,5 @@
 
-# SPAT-Water💧
+# SPATwater💧
 
 ## Beschrijving 📃
 Ontwikkel een statisch gegenereerde website voor een opdrachtgever
