@@ -8,7 +8,6 @@
   import Klimaatadaptatie from "../lib/components/Klimaatadaptatie.svelte"
   import Waterkwaliteit from "../lib/components/Waterkwaliteit.svelte"
   import Brain from "../lib/components/Brain.svelte"
-  import Projecten from "../lib/organisms/Projecten.svelte"
   import Team from "../lib/components/Team.svelte"
   import Contact from "../lib/components/Contact.svelte"
   import Partners from "../lib/components/Partners.svelte"
@@ -26,7 +25,6 @@
   <Klimaatadaptatie {data} />
   <Waterkwaliteit />
   <Brain />
-  <Projecten {data} />
   <Team {data} />
   <Contact />
   <Partners {data} />
