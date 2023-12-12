@@ -1,41 +1,37 @@
 
-# SPATwater💧
+# SPAT-Water💧 Creative coding
 
 ## Beschrijving 📃
-Ontwikkel een statisch gegenereerde website voor een opdrachtgever
+Ontwerp en maak creatieve oplossingen voor de interface.
 
 ![mockup3](https://github.com/sannevanseeventer/SPATwater-2.0/assets/112857444/e668acea-201f-4391-be72-2eb91ce4367d)
 
+## Opdrachten
+### Week 1: Gravitational folk botanical footer
+In de footer heb ik een illustratie van een grot met wortels en een vallende waterdruppel gemaakt.
 
+### Week 2
+### Week 3
 
 ## Inhoudsopgave
 
   * [Beschrijving📃](#beschrijving)
-  * [Gebruik👥](#gebruik)
-  * [Kenmerken✅](#kenmerken)
   * [Installatie⚙️](#installatie)
   * [Bronnen🌐](#bronnen)
   * [Licentie](#licentie)
-    
-
-## Kenmerken ✅
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
-
 
 **TOOLS 🧰:**
-* Visual Studio Code
+
+* VSCode
 * Figma
-* Filezilla
   
 **GEBRUIKTE TECHNIEKEN 🛠️:**
+
+* Svelte
 * Sveltekit
-* Hygraph
-* SSG
-  
-**COMMUNICATIE MIDDELEN 🗣️:**
-* Microsoft Teams
-* Standups
-  
+* JS
+* CSS
+
 ## Installatie ⚙️
 
 1. Clone of download deze repository naar de gewenste folder.
