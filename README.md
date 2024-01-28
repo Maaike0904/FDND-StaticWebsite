@@ -7,11 +7,8 @@ Ontwerp en maak creatieve oplossingen voor de interface.
 ![mockup3](https://github.com/sannevanseeventer/SPATwater-2.0/assets/112857444/e668acea-201f-4391-be72-2eb91ce4367d)
 
 ## Opdrachten
-### Week 1: Gravitational folk botanical footer
-In de footer heb ik een illustratie van een grot met wortels en een vallende waterdruppel gemaakt.
-
-### Week 2
-### Week 3
+### Gravitational folk botanical footer
+In de footer staat een illustratie van een grot met wortels en een vallende waterdruppel.
 
 ## Inhoudsopgave
 
